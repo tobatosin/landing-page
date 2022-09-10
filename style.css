@@ -1,0 +1,136 @@
+.container{
+    border: none;
+    height: 100vh;
+}
+.navbars{
+    border: none;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}.sure{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 40px;
+}
+.navbar1{
+    margin-left: 60px;
+}
+.last{
+    margin-right: 60px;
+    padding: 12px 30px;
+    color: white;
+    background-color: rgb(90,97,247);
+    border: solid white;
+}
+.minicon{
+    border: none;
+    height: 80vh; 
+    background-color: rgb(90,97,247);
+}
+.container2{
+    border: none;
+    height: 64vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.minicon2{
+    border: none;
+    height: 60vh;
+    width: 66vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.p1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: rgb(175,179,219);
+}
+
+.p2{
+    color: white;
+    font-size: 70px;
+    margin:2px 30px ;
+}
+.p3{
+    color: white;
+    border: none;
+    width: 24vw;
+}
+.p4{
+    padding: 10px 30px ;
+    color: rgb(90,97,247) ;
+    font-weight: bold;
+}
+.hommy{
+    color: white;
+}
+.nommy{
+    color: rgb(175,179,219);
+    display: flex;
+    gap: 40px;
+}
+.ss{
+    color: rgb(175,179,219);
+}
+.sc{
+    color: white;
+}
+.gla{
+    color: white;
+}
+.glk{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.glu{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} 
+.container3{
+    border: none;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255,255,255);
+}
+.minicon3{
+    display: flex;
+    gap: 20px;
+    border: none;
+    width: 60vw;
+}
+.c1{
+    border: solid rgb(9, 12, 4);
+    height: 22vh;
+    width: 60vw;
+    background-color: rgb(245,245,255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -25px;
+    border: none;
+}
+.ak{
+    color:rgb(90,97,247) ;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.ar{
+    color: rgb(122,122,122);
+    font-size: 15px;
+    margin-top: 15px;
+    font-weight: bold;
+    
+}
